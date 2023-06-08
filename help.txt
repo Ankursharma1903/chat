@@ -1,0 +1,25 @@
+we will make a chatting app and using node js and web socket that will estabnlish a connnection bnetween a user and client and make a chatting app li9ke whatsapp 
+so its a real time chat app using web sockets
+web sockets help in http response
+
+it establish a link between server and client
+or we can use it to solve http long polling 
+so like http or https in web sockets we have ws and wss
+
+here we use nodejs socket io
+
+we can also make video call etc
+
+it help in event based communication
+
+so webserver can emit event and client can also listen to that event
+
+
+here we use client server using go live and other is node server that will listen to everything
+
+after frontend desigining open the terminal and write cd ./nodeserver
+
+npm init
+
+npm i socket.io
+
